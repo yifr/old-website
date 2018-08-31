@@ -62,7 +62,7 @@ var App = {
 
 
     normal: function() {
-        this.echo("file:///Users/yoni/Desktop/Personal%20Website/index.html");
+        this.echo("https://yifr.github.io/");
     },
 
 
